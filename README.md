@@ -1,4 +1,4 @@
-# MonteCarloEstimatingPiInUnity
+# Monte Carlo Method Estimating PI In Unity
 Aproximating PI with Monte Carlo method in Unity
 
 More info:
