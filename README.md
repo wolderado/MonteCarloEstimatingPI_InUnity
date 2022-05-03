@@ -12,4 +12,4 @@ https://blogs.sas.com/content/iml/2016/03/14/monte-carlo-estimates-of-pi.html
 
 The thing I've found is that it's extremely sensetive to precision and the quality of the seed. Since we can't use real randomness, I think the estimation can only be so accurate.
 
-It could be more accurate or display the data in a better way but I'm happy with the results. I just wanted to see the method in action and I find the results really cool
+It could be more accurate, more fast or display the data in a better way but I'm happy with the results. I just wanted to see the method in action and I find the results really cool
