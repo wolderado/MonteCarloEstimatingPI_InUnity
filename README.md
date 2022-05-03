@@ -1,7 +1,7 @@
 # Monte Carlo Method Estimating PI In Unity
 Aproximating PI with Monte Carlo method in Unity
 
-![](https://imgur.com/a/RZ198dM)
+![gif](ss.gif)
 
 More info:
 
